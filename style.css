@@ -5,7 +5,7 @@ body{
 .header{
    
     display:flex;
-    border: 1px solid rgb(132, 131, 131);
+    border-bottom: 1px solid rgb(222, 218, 218);
 
    
 }
